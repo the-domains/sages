@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sages]]></title>
+        <description><![CDATA[Sages]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 04:50:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inbound marketing educates and informs your customers]]></title>
+            <description><![CDATA[<article><h1>Inbound marketing educates and informs your customers</h1><h2>A short history of inbound marketing</h2><p>Inbound marketing is about publishing useful content for free for your current and potential customers. The daily and weekly routines of inbound marketing consist of regular content production such as blogging and video publishing, sharing the content in social media, engaging your readers by commenting and building links from other sites to your site. The objective is not to sell in the traditional sense, but to publish content that serves your customers in each of the phases of their customer journey. This will eventually result in some of them buying from you.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70b41b89-01be-48d0-8481-3bbb16a13964.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/70b41b89-01be-48d0-8481-3bbb16a13964.jpg</link>
+            <guid isPermaLink="false">f7ac0e99-a53f-4123-b9c2-349edd47e483</guid>
+            <pubDate>Thu, 07 Jul 2016 04:49:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
