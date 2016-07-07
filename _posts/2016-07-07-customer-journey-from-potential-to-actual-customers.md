@@ -6,18 +6,22 @@ description: >-
   providers. Once found, he digs deeper and looks for product specifications so
   that he can compare the options. After having chosen and bought, he’ll look
   for further instructions.
-dateModified: '2016-07-07T04:56:15.552Z'
-datePublished: '2016-07-07T04:56:29.997Z'
+dateModified: '2016-07-07T05:00:57.120Z'
+datePublished: '2016-07-07T05:02:01.260Z'
 title: 'Customer Journey: from potential to actual customers'
 author: []
-starred: false
 sourcePath: _posts/2016-07-07-customer-journey-from-potential-to-actual-customers.md
+starred: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/312a01e8-2e7f-49fa-a4c5-a0d38bdb1063.jpg
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/312a01e8-2e7f-49fa-a4c5-a0d38bdb1063.jpg)
+
 # Customer Journey: from potential to actual customers
 
 From obscurity to repeated buying. That's what Customer Journey is. In between you'll find different phases, and also different information needs per phase. A person just having realized he needs something goes online and looks for providers. Once found, he digs deeper and looks for product specifications so that he can compare the options. After having chosen and bought, he'll look for further instructions.
