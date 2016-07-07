@@ -1,0 +1,14 @@
+layout_spectrum: 0.30172360967844725
+typography_spectrum: 0.9780710793565959
+color:
+  brandStrength: 0.4662334031891078
+  lightness: 0.43745069671422243
+  saturation: 0.15280183521099389
+  rhythmicContrast: 0.13164457422681153
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Sages
