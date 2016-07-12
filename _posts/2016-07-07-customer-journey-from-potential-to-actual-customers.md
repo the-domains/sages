@@ -6,21 +6,21 @@ description: >-
   providers. Once found, he digs deeper and looks for product specifications so
   that he can compare the options. After having chosen and bought, he’ll look
   for further instructions.
-dateModified: '2016-07-07T05:00:57.120Z'
-datePublished: '2016-07-07T05:02:01.260Z'
+dateModified: '2016-07-12T15:12:14.698Z'
+datePublished: '2016-07-12T15:12:39.700Z'
 title: 'Customer Journey: from potential to actual customers'
 author: []
 sourcePath: _posts/2016-07-07-customer-journey-from-potential-to-actual-customers.md
-starred: false
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/312a01e8-2e7f-49fa-a4c5-a0d38bdb1063.jpg
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/312a01e8-2e7f-49fa-a4c5-a0d38bdb1063.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43f03d6736637d21e26df8cd1885daa3/croprotate.jpg?cropheight=1080&cropwidth=862&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F312a01e8-2e7f-49fa-a4c5-a0d38bdb1063.jpg&x=0&y=0)
 
 # Customer Journey: from potential to actual customers
 
